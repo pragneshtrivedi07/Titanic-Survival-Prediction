@@ -50,7 +50,7 @@ Model comparison between Logistic Regression & Random Forest
 Screenshots
 
 Dashboard Home
-[Dashboard](Images/Dashboard.jpeg)
+[Dashboard](Images/Dashboard.jpg)
 
 Feature Importance Chart
 [Feature Importance](Images/Feature_Importance.jpg)
