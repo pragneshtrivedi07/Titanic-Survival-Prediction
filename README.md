@@ -53,11 +53,11 @@ Dashboard Home
 [Dashboard](Images/Dashboard.jpeg)
 
 Feature Importance Chart
-[Feature Importance](Images/Feature_Importance.jpeg)
+[Feature Importance](Images/Feature_Importance.jpg)
 
 Predictions
-[Prediction Report](Images/Prediction1.jpeg)
-[Prediction Report](Images/Prediction2.jpeg)
+[Prediction Report](Images/Prediction1.jpg)
+[Prediction Report](Images/Prediction2.jpg)
 
 
 
